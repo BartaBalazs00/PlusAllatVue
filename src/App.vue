@@ -96,6 +96,7 @@ export default {
       this.plussallat = {...data};
       this.mod_new = false
     },
+    
     cancelEdit () {
       this.resetForm()
     },
